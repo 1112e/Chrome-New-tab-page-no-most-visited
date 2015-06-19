@@ -1,10 +1,9 @@
 // ==UserScript==
 // @name          No most visited
+// @namespace     https://github.com/1112e/Chrome-New-tab-page-no-most-visited
 // @description   cool
-// @include       about:blank
 // @match         https://www.google.com/_/chrome/newtab*
 // @version       1.0
-// @include       about:blank
 // ==/UserScript==
  
 Element.prototype.remove = function() {
