@@ -3,7 +3,8 @@
 // @namespace     https://github.com/1112e/Chrome-New-tab-page-no-most-visited
 // @description   cool
 // @match         https://www.google.com/_/chrome/newtab*
-// @version       1.1
+// @version       1.2
+// @updateURL 	  https://raw.githubusercontent.com/1112e/Chrome-New-tab-page-no-most-visited/master/No%20most%20visited.user.js
 // ==/UserScript==
  
 Element.prototype.remove = function() {
